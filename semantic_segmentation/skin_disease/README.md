@@ -1,0 +1,1 @@
+learn_to_segmentate_nevuses on ADDI project
